@@ -10,7 +10,7 @@ import SignUp from '../../components/Sign/SignUp';
 const SignupContainer = styled.div`
   display: flex;
   justify-content: center;
-  width: 100vw;
+  width: 101vw;
    height: 135vh;
   background-color: #f0f2f4;
   margin-top:-90px;
